@@ -8,6 +8,11 @@ Flutter Cep is a simple Flutter application developed during an event by Academi
 - Clean and modern UI
 - Error handling for invalid or not found CEPs
 
+## Screenshots
+
+| ![Imagem 1](screenshots/screenshot01.png) | ![Imagem 2](screenshots/screenshot02.png) | ![Imagem 1](screenshots/screenshot03.png) | ![Imagem 1](screenshots/screenshot04.png)
+|--------------------------|--------------------------|--------------------------|--------------------------|
+
 ## Tech Stack
 
 - **Flutter**: UI toolkit for building natively compiled applications.
