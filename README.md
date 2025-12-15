@@ -9,6 +9,16 @@ Este é um projeto Flutter para consulta de CEPs (Códigos de Endereçamento Pos
 - **Temas**: Suporte a tema Claro e Escuro (Dark/Light mode).
 - **Arquitetura Limpa**: Projeto estruturado em camadas (Models, Repositories, UI, Core).
 
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot01.png" width="200" />
+  <img src="screenshots/screenshot02.png" width="200" />
+  <img src="screenshots/screenshot03.png" width="200" />
+  <img src="screenshots/screenshot04.png" width="200" />
+</p>
+
 ## 🛠️ Tecnologias Utilizadas
 
 - [Flutter](https://flutter.dev/)
